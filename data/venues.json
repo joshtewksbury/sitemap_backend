@@ -1,0 +1,1365 @@
+{
+  "venues": [
+    {
+      "id": "1",
+      "name": "Hey Chica",
+      "category": "Latin Bar & Nightclub",
+      "location": "315 Brunswick St, Fortitude Valley",
+      "latitude": -27.4580512,
+      "longitude": 153.0343356,
+      "genderSplit": {
+        "male": 45,
+        "female": 55
+      },
+      "averageAge": 26,
+      "capacity": 230,
+      "currentOccupancy": 220,
+      "rating": 4.3,
+      "priceRange": "$$",
+      "pricing": {
+        "tier": "$$",
+        "beers": "$8-12",
+        "basics": "$12-16",
+        "cocktails": "$16-22"
+      },
+      "musicGenres": [
+        {
+          "id": "1",
+          "name": "Salsa",
+          "icon": "music.note",
+          "color": "red"
+        },
+        {
+          "id": "2",
+          "name": "Latin",
+          "icon": "guitars",
+          "color": "orange"
+        },
+        {
+          "id": "3",
+          "name": "Reggaeton",
+          "icon": "waveform",
+          "color": "green"
+        }
+      ],
+      "openingHours": {
+        "monday": "Closed",
+        "tuesday": "11am-12am",
+        "wednesday": "11am-1am",
+        "thursday": "11am-1am",
+        "friday": "11am-3am",
+        "saturday": "11am-3am",
+        "sunday": "11am-12am"
+      },
+      "features": [
+        {
+          "name": "Latin Dancing",
+          "icon": "figure.dance"
+        },
+        {
+          "name": "Bottomless Brunch",
+          "icon": "fork.knife"
+        },
+        {
+          "name": "Live Entertainment",
+          "icon": "music.microphone"
+        }
+      ],
+      "bookingURL": "https://heychica.com.au/contact/",
+      "phoneNumber": "+61 7 3166 2472",
+      "images": [
+        "https://heychica.com.au/wp-content/uploads/2025/03/Hey-Chica-Dance-Floor-1290x570.jpg",
+        "https://heychica.com.au/wp-content/uploads/2025/03/JV-39-600x490.jpg"
+      ],
+      "busyTimes": [],
+      "searchTags": [
+        "latin",
+        "salsa",
+        "reggaeton",
+        "dancing",
+        "tapas",
+        "cocktails",
+        "fortitude valley",
+        "nightclub"
+      ],
+      "vibe": "Lively",
+      "specialties": [
+        "Latin cocktails",
+        "Tapas",
+        "Salsa dancing",
+        "Live Latin music",
+        "Reggaeton nights"
+      ],
+      "currentEvents": [
+        "Salsa lessons Tuesday",
+        "Latin night Friday",
+        "Reggaeton party Saturday"
+      ],
+      "sportsPlaying": [],
+      "dressCode": "Smart casual to dressy",
+      "crowdDescription": "Young to mid-30s Latin music lovers, dancers, and cultural enthusiasts",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.079Z"
+    },
+    {
+      "id": "43",
+      "name": "The Brightside",
+      "category": "Live Music Venue & Bar",
+      "location": "27 Warner St, Fortitude Valley",
+      "latitude": -27.4572,
+      "longitude": 153.0346,
+      "genderSplit": {
+        "male": 55,
+        "female": 45
+      },
+      "averageAge": 25,
+      "capacity": 500,
+      "currentOccupancy": 200,
+      "rating": 4.3,
+      "priceRange": "$$",
+      "musicGenres": [
+        {
+          "id": "96",
+          "name": "Alternative Rock",
+          "icon": "guitars",
+          "color": "red"
+        },
+        {
+          "id": "97",
+          "name": "Emo",
+          "icon": "music.note",
+          "color": "black"
+        },
+        {
+          "id": "98",
+          "name": "Indie",
+          "icon": "waveform",
+          "color": "purple"
+        }
+      ],
+      "openingHours": {
+        "monday": "Closed",
+        "tuesday": "Closed",
+        "wednesday": "Closed",
+        "thursday": "7pm-Late",
+        "friday": "7pm-Late",
+        "saturday": "7pm-Late",
+        "sunday": "Occasional events"
+      },
+      "features": [
+        {
+          "name": "Live Music",
+          "icon": "music.microphone"
+        },
+        {
+          "name": "Beer Garden",
+          "icon": "leaf.fill"
+        },
+        {
+          "name": "Food Service",
+          "icon": "fork.knife"
+        },
+        {
+          "name": "Themed Nights",
+          "icon": "sparkles"
+        },
+        {
+          "name": "Outdoor Stage",
+          "icon": "music.note"
+        }
+      ],
+      "bookingURL": "https://www.thebrightsidebrisbane.com.au/",
+      "phoneNumber": "hello@thebrightsidebrisbane.com.au",
+      "images": [
+        "https://www.thebrightsidebrisbane.com.au/s/cc_images/teaserbox_2462858081.jpg",
+        "https://scontent.fmel11-1.fna.fbcdn.net/v/t39.30808-6/310483066_10158936398672706_3124623982574598984_n.jpg"
+      ],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$$",
+        "beers": "$7-12",
+        "basics": "$10-16",
+        "cocktails": "$14-20"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "live music",
+        "alternative",
+        "emo",
+        "beer garden",
+        "themed nights",
+        "valley"
+      ],
+      "vibe": "Alternative",
+      "specialties": [
+        "Live alternative music",
+        "Themed nights",
+        "Beer garden atmosphere",
+        "Emerging bands"
+      ],
+      "currentEvents": [
+        "Thursday alternative nights",
+        "Weekend live music",
+        "Themed events"
+      ],
+      "sportsPlaying": [],
+      "dressCode": "Alternative/Casual",
+      "crowdDescription": "Alternative music fans, emo/scene kids, live music enthusiasts aged 18-35",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "44",
+      "name": "Pawn & Co Brisbane",
+      "category": "Cocktail Bar & Perfumery",
+      "location": "680 Ann St, Fortitude Valley",
+      "latitude": -27.4584,
+      "longitude": 153.0306,
+      "genderSplit": {
+        "male": 45,
+        "female": 55
+      },
+      "averageAge": 32,
+      "capacity": 350,
+      "currentOccupancy": 180,
+      "rating": 4.4,
+      "priceRange": "$$$",
+      "musicGenres": [
+        {
+          "id": "99",
+          "name": "Deep House",
+          "icon": "waveform",
+          "color": "gold"
+        },
+        {
+          "id": "100",
+          "name": "Jazz",
+          "icon": "music.note",
+          "color": "blue"
+        },
+        {
+          "id": "101",
+          "name": "Lounge",
+          "icon": "headphones",
+          "color": "purple"
+        }
+      ],
+      "openingHours": {
+        "monday": "Closed",
+        "tuesday": "Closed",
+        "wednesday": "Closed",
+        "thursday": "6pm-Late",
+        "friday": "6pm-Late",
+        "saturday": "6pm-Late",
+        "sunday": "Closed"
+      },
+      "features": [
+        {
+          "name": "In-House Perfumery",
+          "icon": "sparkles"
+        },
+        {
+          "name": "Everything For Sale",
+          "icon": "bag.fill"
+        },
+        {
+          "name": "Piano Bar",
+          "icon": "pianokeys"
+        },
+        {
+          "name": "VIP Areas",
+          "icon": "crown.fill"
+        },
+        {
+          "name": "Art Deco Design",
+          "icon": "star.fill"
+        }
+      ],
+      "bookingURL": "https://www.pawnandco.com.au/brisbane",
+      "phoneNumber": "(07) 3123 4567",
+      "images": [
+        "https://www.pawnandco.com.au/uploads/brisbane-interior.jpg",
+        "https://concreteplayground.com/content/uploads/2024/08/Pawn-Co-Brisbane-Interior.jpg"
+      ],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$$$",
+        "beers": "$12-18",
+        "basics": "$16-22",
+        "cocktails": "$22-35"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "cocktails",
+        "perfumery",
+        "luxury",
+        "unique",
+        "shopping",
+        "art deco"
+      ],
+      "vibe": "Luxurious",
+      "specialties": [
+        "Perfume-inspired cocktails",
+        "Custom fragrance creation",
+        "Luxury shopping experience",
+        "Unique concept bar"
+      ],
+      "currentEvents": [
+        "Perfumery workshops",
+        "Cocktail masterclasses",
+        "Luxury shopping experiences"
+      ],
+      "sportsPlaying": [],
+      "dressCode": "Smart casual to cocktail attire",
+      "crowdDescription": "Luxury seekers, cocktail enthusiasts, unique experience hunters aged 25-45",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "45",
+      "name": "Wonderland",
+      "category": "Nightclub",
+      "location": "633 Ann St, Fortitude Valley",
+      "latitude": -27.4583,
+      "longitude": 153.0304,
+      "genderSplit": {
+        "male": 48,
+        "female": 52
+      },
+      "averageAge": 24,
+      "capacity": 800,
+      "currentOccupancy": 400,
+      "rating": 4.1,
+      "priceRange": "$$",
+      "musicGenres": [
+        {
+          "id": "102",
+          "name": "Electronic Dance",
+          "icon": "waveform",
+          "color": "neon"
+        },
+        {
+          "id": "103",
+          "name": "Hip Hop",
+          "icon": "music.note",
+          "color": "orange"
+        },
+        {
+          "id": "104",
+          "name": "Commercial House",
+          "icon": "speaker.wave.3",
+          "color": "blue"
+        }
+      ],
+      "openingHours": {
+        "monday": "Closed",
+        "tuesday": "Closed",
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "9pm-3am",
+        "saturday": "9pm-3am",
+        "sunday": "Closed"
+      },
+      "features": [
+        {
+          "name": "Multiple Rooms",
+          "icon": "square.grid.2x2"
+        },
+        {
+          "name": "VIP Booths",
+          "icon": "crown.fill"
+        },
+        {
+          "name": "Dance Floor",
+          "icon": "figure.dance"
+        },
+        {
+          "name": "DJ Booth",
+          "icon": "music.microphone"
+        },
+        {
+          "name": "Bar Service",
+          "icon": "wineglass"
+        }
+      ],
+      "bookingURL": "https://www.wonderlandbne.com.au/",
+      "phoneNumber": "hello@wonderlandbne.com.au",
+      "images": [
+        "https://www.wonderlandbne.com.au/images/interior-main.jpg",
+        "https://scontent.fmel11-1.fna.fbcdn.net/v/t39.30808-6/wonderland-dancefloor.jpg"
+      ],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$$",
+        "beers": "$8-14",
+        "basics": "$12-18",
+        "cocktails": "$16-25"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "nightclub",
+        "electronic",
+        "dancing",
+        "weekend",
+        "party",
+        "valley"
+      ],
+      "vibe": "Energetic",
+      "specialties": [
+        "Electronic dance music",
+        "Weekend clubbing",
+        "VIP experiences",
+        "Late night entertainment"
+      ],
+      "currentEvents": [
+        "Weekend DJ sets",
+        "Electronic music nights",
+        "VIP party packages"
+      ],
+      "sportsPlaying": [],
+      "dressCode": "Smart casual to nightclub attire",
+      "crowdDescription": "Club goers, electronic music fans, party-seekers aged 18-30",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "46",
+      "name": "Enigma",
+      "category": "Nightclub",
+      "location": "299 Brunswick St, Fortitude Valley",
+      "latitude": -27.4571,
+      "longitude": 153.0323,
+      "genderSplit": {
+        "male": 47,
+        "female": 53
+      },
+      "averageAge": 26,
+      "capacity": 600,
+      "currentOccupancy": 320,
+      "rating": 4.2,
+      "priceRange": "$$",
+      "musicGenres": [
+        {
+          "id": "105",
+          "name": "Tech House",
+          "icon": "waveform",
+          "color": "purple"
+        },
+        {
+          "id": "106",
+          "name": "Commercial Dance",
+          "icon": "music.note",
+          "color": "pink"
+        },
+        {
+          "id": "107",
+          "name": "Progressive House",
+          "icon": "speaker.wave.3",
+          "color": "blue"
+        }
+      ],
+      "openingHours": {
+        "monday": "Closed",
+        "tuesday": "Closed",
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "9pm-4am",
+        "saturday": "8pm-4am",
+        "sunday": "Closed"
+      },
+      "features": [
+        {
+          "name": "LED Light Walkway",
+          "icon": "lightbulb.fill"
+        },
+        {
+          "name": "Mesmerising Visuals",
+          "icon": "eye.fill"
+        },
+        {
+          "name": "VIP Booths",
+          "icon": "crown.fill"
+        },
+        {
+          "name": "State-of-art Sound",
+          "icon": "speaker.wave.3"
+        },
+        {
+          "name": "Dance Floor",
+          "icon": "figure.dance"
+        }
+      ],
+      "bookingURL": "https://enigmanc.com.au/",
+      "phoneNumber": "(07) 3166 2480",
+      "images": [
+        "https://enigmanc.com.au/images/main-floor.jpg",
+        "https://theweekendedition.com.au/images/enigma-interior.jpg"
+      ],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$$",
+        "beers": "$9-15",
+        "basics": "$13-19",
+        "cocktails": "$18-28"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "nightclub",
+        "tech house",
+        "immersive",
+        "luxury",
+        "LED",
+        "valley"
+      ],
+      "vibe": "Immersive",
+      "specialties": [
+        "Tech house music",
+        "Immersive lighting",
+        "VIP experiences",
+        "Premium clubbing"
+      ],
+      "currentEvents": [
+        "Friday tech house nights",
+        "Saturday dance parties",
+        "VIP experiences"
+      ],
+      "sportsPlaying": [],
+      "dressCode": "Smart casual to nightclub attire",
+      "crowdDescription": "Tech house fans, luxury clubbers, nightlife enthusiasts aged 20-35",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "47",
+      "name": "Greaser",
+      "category": "Underground Bar & Live Music",
+      "location": "259 Brunswick St, Fortitude Valley (Underground)",
+      "latitude": -27.4569,
+      "longitude": 153.0324,
+      "genderSplit": {
+        "male": 58,
+        "female": 42
+      },
+      "averageAge": 28,
+      "capacity": 250,
+      "currentOccupancy": 120,
+      "rating": 4.5,
+      "priceRange": "$$",
+      "musicGenres": [
+        {
+          "id": "108",
+          "name": "Rock",
+          "icon": "guitars",
+          "color": "red"
+        },
+        {
+          "id": "109",
+          "name": "Blues",
+          "icon": "music.note",
+          "color": "blue"
+        },
+        {
+          "id": "110",
+          "name": "Rockabilly",
+          "icon": "waveform",
+          "color": "orange"
+        }
+      ],
+      "openingHours": {
+        "monday": "Closed",
+        "tuesday": "Closed",
+        "wednesday": "5pm-12am",
+        "thursday": "5pm-12am",
+        "friday": "5pm-3am",
+        "saturday": "6pm-3am",
+        "sunday": "5pm-Late"
+      },
+      "features": [
+        {
+          "name": "Underground Location",
+          "icon": "arrow.down"
+        },
+        {
+          "name": "Live Music Stage",
+          "icon": "music.microphone"
+        },
+        {
+          "name": "Pool Table",
+          "icon": "circle.grid.cross"
+        },
+        {
+          "name": "Arcade Games",
+          "icon": "gamecontroller"
+        },
+        {
+          "name": "American Food",
+          "icon": "fork.knife"
+        }
+      ],
+      "bookingURL": "https://theprinceconsort.com.au/greaser/",
+      "phoneNumber": "(07) 3252 4136",
+      "images": [
+        "https://theprinceconsort.com.au/images/greaser-interior.jpg",
+        "https://mustdobrisbane.com/images/greaser-underground.jpg"
+      ],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$$",
+        "beers": "$7-12",
+        "basics": "$10-16",
+        "cocktails": "$14-22"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "underground",
+        "rock music",
+        "dive bar",
+        "live music",
+        "american food",
+        "pool"
+      ],
+      "vibe": "Gritty",
+      "specialties": [
+        "Live rock music",
+        "Underground atmosphere",
+        "American bar food",
+        "Dive bar experience"
+      ],
+      "currentEvents": [
+        "Live rock bands",
+        "Comedy nights",
+        "Karaoke thursdays",
+        "DJ sets"
+      ],
+      "sportsPlaying": [],
+      "dressCode": "Casual/Rock style",
+      "crowdDescription": "Rock music fans, dive bar enthusiasts, musicians aged 20-40",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "48",
+      "name": "QA Hotel",
+      "category": "Historic Pub & Sports Bar",
+      "location": "64 James St, New Farm",
+      "latitude": -27.4663,
+      "longitude": 153.0439,
+      "genderSplit": {
+        "male": 52,
+        "female": 48
+      },
+      "averageAge": 35,
+      "capacity": 400,
+      "currentOccupancy": 200,
+      "rating": 4.3,
+      "priceRange": "$$",
+      "musicGenres": [
+        {
+          "id": "111",
+          "name": "Classic Rock",
+          "icon": "guitars",
+          "color": "red"
+        },
+        {
+          "id": "112",
+          "name": "Pop",
+          "icon": "headphones",
+          "color": "pink"
+        },
+        {
+          "id": "113",
+          "name": "Background Music",
+          "icon": "music.note",
+          "color": "gray"
+        }
+      ],
+      "openingHours": {
+        "monday": "10am-2am",
+        "tuesday": "10am-2am",
+        "wednesday": "10am-2am",
+        "thursday": "10am-2am",
+        "friday": "10am-2am",
+        "saturday": "10am-2am",
+        "sunday": "10am-2am"
+      },
+      "features": [
+        {
+          "name": "Sports Bar",
+          "icon": "sportscourt"
+        },
+        {
+          "name": "TAB Facilities",
+          "icon": "phone"
+        },
+        {
+          "name": "Gaming Room",
+          "icon": "gamecontroller"
+        },
+        {
+          "name": "Restaurant",
+          "icon": "fork.knife"
+        },
+        {
+          "name": "Function Spaces",
+          "icon": "building.2"
+        },
+        {
+          "name": "Late Night Bar",
+          "icon": "moon.fill"
+        }
+      ],
+      "bookingURL": "https://www.qahotel.com/",
+      "phoneNumber": "(07) 3358 2799",
+      "images": [
+        "https://www.qahotel.com/images/main-bar.jpg",
+        "https://nexthotels.com/images/qa-hotel-exterior.jpg"
+      ],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$$",
+        "beers": "$6-12",
+        "basics": "$8-14",
+        "cocktails": "$14-22"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "pub",
+        "sports",
+        "gaming",
+        "restaurant",
+        "historic",
+        "james street"
+      ],
+      "vibe": "Traditional",
+      "specialties": [
+        "Sports viewing",
+        "Pub dining",
+        "Gaming facilities",
+        "Late night drinks"
+      ],
+      "currentEvents": [
+        "Tuesday trivia nights",
+        "Friday live musicians",
+        "Saturday DJ sets",
+        "Sports broadcasts"
+      ],
+      "sportsPlaying": [
+        "All major sports",
+        "AFL",
+        "NRL",
+        "Cricket",
+        "Soccer"
+      ],
+      "dressCode": "Casual",
+      "crowdDescription": "Sports fans, locals, pub diners, gamers aged 25-55",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "49",
+      "name": "The Magee",
+      "category": "Bar & Restaurant",
+      "location": "65 Annerley Rd, Woolloongabba",
+      "latitude": -27.4901,
+      "longitude": 153.0364,
+      "genderSplit": {
+        "male": 50,
+        "female": 50
+      },
+      "averageAge": 32,
+      "capacity": 200,
+      "currentOccupancy": 80,
+      "rating": 4.2,
+      "priceRange": "$$",
+      "musicGenres": [
+        {
+          "id": "114",
+          "name": "Indie Rock",
+          "icon": "guitars",
+          "color": "green"
+        },
+        {
+          "id": "115",
+          "name": "Alternative",
+          "icon": "music.note",
+          "color": "purple"
+        },
+        {
+          "id": "116",
+          "name": "Background Music",
+          "icon": "waveform",
+          "color": "gray"
+        }
+      ],
+      "openingHours": {
+        "monday": "Closed",
+        "tuesday": "4pm-Late",
+        "wednesday": "4pm-Late",
+        "thursday": "4pm-Late",
+        "friday": "4pm-Late",
+        "saturday": "2pm-Late",
+        "sunday": "2pm-Late"
+      },
+      "features": [
+        {
+          "name": "Craft Cocktails",
+          "icon": "wineglass"
+        },
+        {
+          "name": "Local Beers",
+          "icon": "mug.fill"
+        },
+        {
+          "name": "Bar Food",
+          "icon": "fork.knife"
+        },
+        {
+          "name": "Intimate Setting",
+          "icon": "heart.fill"
+        }
+      ],
+      "bookingURL": "PLACEHOLDER_URL",
+      "phoneNumber": "PLACEHOLDER_PHONE",
+      "images": [],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$$",
+        "beers": "$7-13",
+        "basics": "$10-16",
+        "cocktails": "$15-23"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "cocktails",
+        "local beers",
+        "intimate",
+        "woolloongabba",
+        "neighborhood"
+      ],
+      "vibe": "Intimate",
+      "specialties": [
+        "Craft cocktails",
+        "Local beer selection",
+        "Neighborhood atmosphere",
+        "Quality bar food"
+      ],
+      "currentEvents": [
+        "Weekly drink specials",
+        "Local music nights"
+      ],
+      "sportsPlaying": [],
+      "dressCode": "Casual",
+      "crowdDescription": "Locals, cocktail enthusiasts, intimate dining seekers aged 25-45",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "50",
+      "name": "Indooroopilly Hotel",
+      "category": "Suburban Pub",
+      "location": "Moggill Rd, Indooroopilly",
+      "latitude": -27.4999,
+      "longitude": 152.9719,
+      "genderSplit": {
+        "male": 55,
+        "female": 45
+      },
+      "averageAge": 38,
+      "capacity": 300,
+      "currentOccupancy": 120,
+      "rating": 4.0,
+      "priceRange": "$",
+      "musicGenres": [
+        {
+          "id": "117",
+          "name": "Classic Rock",
+          "icon": "guitars",
+          "color": "red"
+        },
+        {
+          "id": "118",
+          "name": "Pop",
+          "icon": "headphones",
+          "color": "pink"
+        },
+        {
+          "id": "119",
+          "name": "Country",
+          "icon": "music.note",
+          "color": "brown"
+        }
+      ],
+      "openingHours": {
+        "monday": "10am-12am",
+        "tuesday": "10am-12am",
+        "wednesday": "10am-12am",
+        "thursday": "10am-12am",
+        "friday": "10am-1am",
+        "saturday": "10am-1am",
+        "sunday": "10am-12am"
+      },
+      "features": [
+        {
+          "name": "Sports Bar",
+          "icon": "sportscourt"
+        },
+        {
+          "name": "Gaming",
+          "icon": "gamecontroller"
+        },
+        {
+          "name": "Family Dining",
+          "icon": "person.3.fill"
+        },
+        {
+          "name": "Beer Garden",
+          "icon": "leaf.fill"
+        }
+      ],
+      "bookingURL": "PLACEHOLDER_URL",
+      "phoneNumber": "PLACEHOLDER_PHONE",
+      "images": [],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$",
+        "beers": "$5-10",
+        "basics": "$7-12",
+        "cocktails": "$12-18"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "suburban pub",
+        "family friendly",
+        "sports",
+        "gaming",
+        "indooroopilly"
+      ],
+      "vibe": "Family-friendly",
+      "specialties": [
+        "Family dining",
+        "Sports viewing",
+        "Local pub atmosphere",
+        "Gaming facilities"
+      ],
+      "currentEvents": [
+        "Sports broadcasts",
+        "Family meal specials"
+      ],
+      "sportsPlaying": [
+        "AFL",
+        "NRL",
+        "Cricket"
+      ],
+      "dressCode": "Very casual",
+      "crowdDescription": "Families, locals, sports fans aged 25-60",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "51",
+      "name": "The Paddo",
+      "category": "Historic Pub",
+      "location": "Paddington",
+      "latitude": -27.4598,
+      "longitude": 153.0065,
+      "genderSplit": {
+        "male": 53,
+        "female": 47
+      },
+      "averageAge": 34,
+      "capacity": 250,
+      "currentOccupancy": 100,
+      "rating": 4.1,
+      "priceRange": "$",
+      "musicGenres": [
+        {
+          "id": "120",
+          "name": "Classic Rock",
+          "icon": "guitars",
+          "color": "red"
+        },
+        {
+          "id": "121",
+          "name": "Folk",
+          "icon": "music.note",
+          "color": "brown"
+        },
+        {
+          "id": "122",
+          "name": "Acoustic",
+          "icon": "guitars",
+          "color": "orange"
+        }
+      ],
+      "openingHours": {
+        "monday": "11am-Late",
+        "tuesday": "11am-Late",
+        "wednesday": "11am-Late",
+        "thursday": "11am-Late",
+        "friday": "11am-Late",
+        "saturday": "11am-Late",
+        "sunday": "11am-Late"
+      },
+      "features": [
+        {
+          "name": "Historic Building",
+          "icon": "building.columns"
+        },
+        {
+          "name": "Beer Garden",
+          "icon": "leaf.fill"
+        },
+        {
+          "name": "Live Music",
+          "icon": "music.microphone"
+        },
+        {
+          "name": "Traditional Pub",
+          "icon": "mug.fill"
+        }
+      ],
+      "bookingURL": "PLACEHOLDER_URL",
+      "phoneNumber": "PLACEHOLDER_PHONE",
+      "images": [],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$",
+        "beers": "$6-12",
+        "basics": "$9-15",
+        "cocktails": "$14-20"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "historic pub",
+        "beer garden",
+        "live music",
+        "paddington",
+        "traditional"
+      ],
+      "vibe": "Historic",
+      "specialties": [
+        "Historic atmosphere",
+        "Traditional pub experience",
+        "Live acoustic music",
+        "Beer garden dining"
+      ],
+      "currentEvents": [
+        "Live acoustic sessions",
+        "Traditional pub nights"
+      ],
+      "sportsPlaying": [
+        "AFL",
+        "NRL"
+      ],
+      "dressCode": "Casual",
+      "crowdDescription": "Locals, history enthusiasts, acoustic music fans aged 25-50",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "52",
+      "name": "Lefty's Music Hall",
+      "category": "Live Music Venue & Bar",
+      "location": "Fortitude Valley",
+      "latitude": -27.4572,
+      "longitude": 153.0345,
+      "genderSplit": {
+        "male": 52,
+        "female": 48
+      },
+      "averageAge": 29,
+      "capacity": 400,
+      "currentOccupancy": 180,
+      "rating": 4.4,
+      "priceRange": "$",
+      "musicGenres": [
+        {
+          "id": "123",
+          "name": "Live Music",
+          "icon": "music.microphone",
+          "color": "red"
+        },
+        {
+          "id": "124",
+          "name": "Indie",
+          "icon": "guitars",
+          "color": "green"
+        },
+        {
+          "id": "125",
+          "name": "Alternative",
+          "icon": "waveform",
+          "color": "purple"
+        }
+      ],
+      "openingHours": {
+        "monday": "Closed",
+        "tuesday": "Closed",
+        "wednesday": "7pm-Late",
+        "thursday": "7pm-Late",
+        "friday": "7pm-Late",
+        "saturday": "7pm-Late",
+        "sunday": "6pm-Late"
+      },
+      "features": [
+        {
+          "name": "Live Music Stage",
+          "icon": "music.microphone"
+        },
+        {
+          "name": "Eclectic Decor",
+          "icon": "sparkles"
+        },
+        {
+          "name": "Craft Cocktails",
+          "icon": "wineglass"
+        },
+        {
+          "name": "Intimate Venue",
+          "icon": "heart.fill"
+        }
+      ],
+      "bookingURL": "PLACEHOLDER_URL",
+      "phoneNumber": "PLACEHOLDER_PHONE",
+      "images": [],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$",
+        "beers": "$8-14",
+        "basics": "$12-18",
+        "cocktails": "$16-24"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "live music",
+        "indie",
+        "alternative",
+        "cocktails",
+        "intimate",
+        "valley"
+      ],
+      "vibe": "Eclectic",
+      "specialties": [
+        "Live music performances",
+        "Indie and alternative acts",
+        "Craft cocktail menu",
+        "Intimate atmosphere"
+      ],
+      "currentEvents": [
+        "Live band performances",
+        "Indie music nights",
+        "Local artist showcases"
+      ],
+      "sportsPlaying": [],
+      "dressCode": "Alternative/Creative casual",
+      "crowdDescription": "Music lovers, indie fans, creative types aged 20-40",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "53",
+      "name": "The Caxton Hotel",
+      "category": "Sports Pub",
+      "location": "Caxton St, Paddington",
+      "latitude": -27.4654,
+      "longitude": 153.0089,
+      "genderSplit": {
+        "male": 65,
+        "female": 35
+      },
+      "averageAge": 36,
+      "capacity": 800,
+      "currentOccupancy": 400,
+      "rating": 4.2,
+      "priceRange": "$",
+      "musicGenres": [
+        {
+          "id": "126",
+          "name": "Classic Rock",
+          "icon": "guitars",
+          "color": "red"
+        },
+        {
+          "id": "127",
+          "name": "Sports Commentary",
+          "icon": "sportscourt",
+          "color": "blue"
+        },
+        {
+          "id": "128",
+          "name": "Pop",
+          "icon": "headphones",
+          "color": "pink"
+        }
+      ],
+      "openingHours": {
+        "monday": "10am-Late",
+        "tuesday": "10am-Late",
+        "wednesday": "10am-Late",
+        "thursday": "10am-Late",
+        "friday": "10am-Late",
+        "saturday": "10am-Late",
+        "sunday": "10am-Late"
+      },
+      "features": [
+        {
+          "name": "Multiple Sports Screens",
+          "icon": "tv"
+        },
+        {
+          "name": "TAB Facilities",
+          "icon": "phone"
+        },
+        {
+          "name": "Large Beer Garden",
+          "icon": "leaf.fill"
+        },
+        {
+          "name": "Gaming Area",
+          "icon": "gamecontroller"
+        },
+        {
+          "name": "Stadium Proximity",
+          "icon": "sportscourt"
+        }
+      ],
+      "bookingURL": "PLACEHOLDER_URL",
+      "phoneNumber": "PLACEHOLDER_PHONE",
+      "images": [],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$",
+        "beers": "$6-12",
+        "basics": "$8-14",
+        "cocktails": "$14-20"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "sports pub",
+        "suncorp stadium",
+        "game day",
+        "beer garden",
+        "TAB",
+        "caxton street"
+      ],
+      "vibe": "Sports-focused",
+      "specialties": [
+        "Game day atmosphere",
+        "Sports viewing",
+        "Pre/post-game venue",
+        "Large capacity"
+      ],
+      "currentEvents": [
+        "NRL game broadcasts",
+        "AFL matches",
+        "Game day specials",
+        "Sports betting"
+      ],
+      "sportsPlaying": [
+        "NRL",
+        "AFL",
+        "Cricket",
+        "Soccer",
+        "Rugby Union"
+      ],
+      "dressCode": "Sports casual",
+      "crowdDescription": "Sports fans, pre/post-game crowds, locals aged 25-55",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    },
+    {
+      "id": "54",
+      "name": "Death and Taxes Brisbane",
+      "category": "Cocktail Bar",
+      "location": "Fortitude Valley",
+      "latitude": -27.4575,
+      "longitude": 153.0340,
+      "genderSplit": {
+        "male": 48,
+        "female": 52
+      },
+      "averageAge": 31,
+      "capacity": 150,
+      "currentOccupancy": 75,
+      "rating": 4.3,
+      "priceRange": "$$",
+      "musicGenres": [
+        {
+          "id": "129",
+          "name": "Jazz",
+          "icon": "music.note",
+          "color": "blue"
+        },
+        {
+          "id": "130",
+          "name": "Lounge",
+          "icon": "waveform",
+          "color": "purple"
+        },
+        {
+          "id": "131",
+          "name": "Ambient",
+          "icon": "headphones",
+          "color": "gray"
+        }
+      ],
+      "openingHours": {
+        "monday": "Closed",
+        "tuesday": "Closed",
+        "wednesday": "5pm-Late",
+        "thursday": "5pm-Late",
+        "friday": "5pm-Late",
+        "saturday": "5pm-Late",
+        "sunday": "Closed"
+      },
+      "features": [
+        {
+          "name": "Craft Cocktails",
+          "icon": "wineglass"
+        },
+        {
+          "name": "Premium Spirits",
+          "icon": "bottle"
+        },
+        {
+          "name": "Intimate Setting",
+          "icon": "heart.fill"
+        },
+        {
+          "name": "Sophisticated Atmosphere",
+          "icon": "star.fill"
+        }
+      ],
+      "bookingURL": "PLACEHOLDER_URL",
+      "phoneNumber": "PLACEHOLDER_PHONE",
+      "images": [],
+      "busyTimes": [],
+      "pricing": {
+        "tier": "$$",
+        "beers": "$10-16",
+        "basics": "$14-20",
+        "cocktails": "$18-28"
+      },
+      "pricingUpdated": "2025-09-01T05:01:49.688Z",
+      "searchTags": [
+        "cocktails",
+        "craft spirits",
+        "sophisticated",
+        "intimate",
+        "premium",
+        "valley"
+      ],
+      "vibe": "Sophisticated",
+      "specialties": [
+        "Craft cocktail program",
+        "Premium spirit selection",
+        "Intimate atmosphere",
+        "Sophisticated service"
+      ],
+      "currentEvents": [
+        "Cocktail masterclasses",
+        "Spirit tastings",
+        "Private events"
+      ],
+      "sportsPlaying": [],
+      "dressCode": "Smart casual to formal",
+      "crowdDescription": "Cocktail connoisseurs, date night couples, sophisticated drinkers aged 25-45",
+      "aiMetadataUpdated": "2025-09-01T06:07:44.083Z"
+    }
+  ],
+  "lastUpdated": "2025-08-18T10:00:00Z",
+  "metadata": {
+    "totalVenues": 15,
+    "city": "Brisbane",
+    "state": "Queensland",
+    "country": "Australia"
+  }
+}
