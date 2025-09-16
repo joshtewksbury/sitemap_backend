@@ -5090,7 +5090,7 @@
       ],
       "bookingURL": "https://thepaddo.com.au/book-now/",
       "phoneNumber": "(07) 3369 0044",
-      "images": [],
+      "images": ["https://thepaddo.com.au/wp-content/uploads/2023/05/brisbane-pubs-event-venues-WrrKq45Q-min.jpeg","https://images.squarespace-cdn.com/content/v1/5a9ca35af93fd4aee7148c01/1525931606700-W08W3XWCSPY23MPPVNSC/IMG_7871.jpg"],
       "busyTimes": [],
       "pricing": {
         "tier": "$",
@@ -5191,7 +5191,7 @@
       ],
       "bookingURL": "https://www.sevenrooms.com/explore/leftysmusichall/reservations/create/search?_gl=1*z7gle0*_gcl_au*MTYzMzkwNTk5Ni4xNzU3Mjk5MjY2*_ga*NTQzMDM1ODEwLjE3NTcyOTkyNjY.*_ga_FMGEKEKVXS*czE3NTcyOTkyNjYkbzEkZzAkdDE3NTcyOTkyNjYkajYwJGwwJGg2ODY5MzMyMzE.*_ga_W7SR56E2TG*czE3NTcyOTkyNjYkbzEkZzEkdDE3NTcyOTkyNjYkajYwJGwwJGgxNDA4OTkyMjEy",
       "phoneNumber": "(07) 3924 8027",
-      "images": [],
+      "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/9c/be/0d/lefty-s.jpg?w=900&h=500&s=1","https://leftysmusichall.com.au/wp-content/uploads/2024/11/Untitled-design-3.png"],
       "busyTimes": [],
       "pricing": {
         "tier": "$",
@@ -5295,7 +5295,7 @@
       ],
       "bookingURL": "https://bookings.nowbookit.com/?accountid=0f9ff585-2ec3-49d8-9081-75e6dcb59962&theme=light&accent=hex,bcaaa4,000000&venueid=11534&font=Montserrat",
       "phoneNumber": "(07) 3369 5544",
-      "images": [],
+      "images": ["https://paynters.com.au/wp-content/uploads/2022/02/190205Paynters-Caxton-Hotel_064_Low-Res.jpg","https://caxton.com.au/wp-content/uploads/2023/07/IMG_9748-1024x683.jpg"],
       "busyTimes": [],
       "pricing": {
         "tier": "$",
@@ -5402,7 +5402,7 @@
       ],
       "bookingURL": "https://www.deathandtaxesbar.com.au",
       "phoneNumber": "none",
-      "images": [],
+      "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/4b/e0/68/caption.jpg?w=1200&h=-1&s=1","https://thecitylane.com/wp-content/uploads/2022/01/X1009385.jpg"],
       "busyTimes": [],
       "pricing": {
         "tier": "$$",
@@ -5498,7 +5498,7 @@
       ],
       "bookingURL": "https://cloudland.tv/",
       "phoneNumber": "(07) 3872 6600",
-      "images": [],
+      "images": ["https://edqkvt6c5r7.exactdn.com/wp-content/uploads/2019/08/madame-hedges-at-cloudland-brisbane-venue-maestro-function-room-2.jpg?strip=all&lossy=1&ssl=1","https://www.partystar.com.au/images/venue/4052-2.jpg"],
       "busyTimes": [],
       "searchTags": [
         "nightclub",
@@ -5580,7 +5580,7 @@
       ],
       "bookingURL": "https://rgs.com.au/",
       "phoneNumber": "(07) 3221 1999",
-      "images": [],
+      "images": ["https://royalgeorgehotel.com.au/wp-content/uploads/2020/08/IMG_3167.jpg","https://royalgeorgehotel.com.au/wp-content/uploads/2023/12/085A1872-scaled.jpg"],
       "busyTimes": [],
       "searchTags": [
         "sports bar",
@@ -5666,7 +5666,7 @@
       ],
       "bookingURL": "https://thewickham.com.au/",
       "phoneNumber": "(07) 3852 1301",
-      "images": [],
+      "images": ["https://thewickham.com.au/wp-content/uploads/2019/06/External2-1290x650.jpg","https://thewickham.com.au/wp-content/uploads/2023/07/66A3558-1024x650.jpg"],
       "busyTimes": [],
       "searchTags": [
         "pub",
@@ -5746,9 +5746,9 @@
           "icon": "figure.pool.swim"
         }
       ],
-      "bookingURL": "https://summerhousebrisbane.com.au/",
+      "bookingURL": "https://www.sevenrooms.com/explore/summahouseptyltd/reservations/create/search/",
       "phoneNumber": "(07) 3844 8555",
-      "images": [],
+      "images": ["https://eatdrinkcheap.com.au/images/venue/summa-house-fortitude-valley.jpg","https://static.wixstatic.com/media/a885a5_b022fe4c79034454a02a124ca113fe39~mv2.jpg/v1/fill/w_824,h_694,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a885a5_b022fe4c79034454a02a124ca113fe39~mv2.jpg"],
       "busyTimes": [],
       "searchTags": [
         "riverside",
@@ -5830,7 +5830,7 @@
       ],
       "bookingURL": "https://empirehotel.com.au/",
       "phoneNumber": "(07) 3852 1216",
-      "images": [],
+      "images": ["https://resizer.otstatic.com/v3/photos/42592213-4?width=1280&height=720&webp=true","https://www.empirehotel.com.au/wp-content/uploads/2016/01/empire-booth-main-pagex1.jpg"],
       "busyTimes": [],
       "searchTags": [
         "hotel",
