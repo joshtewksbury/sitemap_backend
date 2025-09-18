@@ -5956,9 +5956,9 @@
       "capacity": 200,
       "currentOccupancy": 120,
       "rating": 4.1,
-      "priceRange": "39557",
+      "priceRange": "$$",
       "pricing": {
-        "tier": "39557",
+        "tier": "$$",
         "beers": "-10",
         "basics": "-12",
         "cocktails": "-18"
@@ -6045,9 +6045,9 @@
       "capacity": 250,
       "currentOccupancy": 180,
       "rating": 4.2,
-      "priceRange": "39557",
+      "priceRange": "$$",
       "pricing": {
-        "tier": "39557",
+        "tier": "$$",
         "beers": "-11",
         "basics": "-13",
         "cocktails": "-20"
@@ -6136,9 +6136,9 @@
       "capacity": 180,
       "currentOccupancy": 140,
       "rating": 4.0,
-      "priceRange": "39557",
+      "priceRange": "$$",
       "pricing": {
-        "tier": "39557",
+        "tier": "$$",
         "beers": "-10",
         "basics": "-12",
         "cocktails": "-18"
@@ -6223,9 +6223,9 @@
       "capacity": 400,
       "currentOccupancy": 320,
       "rating": 4.5,
-      "priceRange": "39557",
+      "priceRange": "$",
       "pricing": {
-        "tier": "39557",
+        "tier": "$",
         "beers": "-12",
         "basics": "-14",
         "cocktails": "-22"
@@ -6318,9 +6318,9 @@
       "capacity": 120,
       "currentOccupancy": 90,
       "rating": 4.7,
-      "priceRange": "39557$",
+      "priceRange": "$$",
       "pricing": {
-        "tier": "39557$",
+        "tier": "$$",
         "beers": "-13",
         "basics": "-18",
         "cocktails": "-26"
